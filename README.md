@@ -7,5 +7,5 @@ Script berformat ekstensi AHK (AutoHotKeys)
 - Tutorial pembuatan script dan tutorial ada di : https://www.youtube.com/channel/UCXCLyivAMKF8OOWSgZVINUA/featured
 - untuk server komunitas kalian bisa masuk server discord : https://discord.gg/XJYDQn5N2n
 - jangan lupa follow medsos gw :
-1 Instagram : https://www.instagram.com/stvenxj/
-2 Facebook : https://www.facebook.com/stven.xj/
+- Instagram : https://www.instagram.com/stvenxj/
+- Facebook : https://www.facebook.com/stven.xj/
