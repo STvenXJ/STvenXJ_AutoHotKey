@@ -1,8 +1,11 @@
-# STvenXJ_AutoHotKeys_Script
-Ahk Source Code
+# STvenXJ_AutoHotKey
+# SOURCE CODE TIDAK UNTUK DIPERJUALBELIKAN, JIKA SESEORANG MEMPERJUALBELIKAN CONTACT SOSMED/JOIN DISCORD!
 
 file semua gratis dan kalian bisa membuat script dengan mendownload : https://www.autohotkey.com/
 
 Script berformat ekstensi AHK (AutoHotKeys)
 - Tutorial pembuatan script dan tutorial ada di : https://www.youtube.com/channel/UCXCLyivAMKF8OOWSgZVINUA/featured
-- untuk server kalian bisa masuk server discord : https://discord.gg/XJYDQn5N2n
+- untuk server komunitas kalian bisa masuk server discord : https://discord.gg/XJYDQn5N2n
+- jangan lupa follow medsos gw :
+1 Instagram : https://www.instagram.com/stvenxj/
+2 Facebook : https://www.facebook.com/stven.xj/
